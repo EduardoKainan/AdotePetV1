@@ -1,8 +1,7 @@
-# gugubank
-
+# AdotePet
 Novo Projeto para Estudo usando o framework Flutter.
 
-## Aplicativo RegTransferencias Gugu 24h
+## Aplicativo AdotePet
  
  :heavy_dollar_sign: Aplicativo para facilitar adoção de animais domesticos.
 
@@ -34,6 +33,17 @@ Novo Projeto para Estudo usando o framework Flutter.
 <img align="center" height="30" width="90" src="https://miro.medium.com/max/720/0*S0gllBsD11p4kfwO.png">
 
 </a>
+
+## Imagens App
+---
+
+<div align="center">
+<img src="https://user-images.githubusercontent.com/31977689/156897882-1ddfc97e-9684-44cd-baca-bc4b37fa1577.PNG" width="0px" />
+</div>
+
+<div align="center">
+<img src="https://user-images.githubusercontent.com/31977689/156897879-a0ca0bb5-45f4-4834-982d-864b77c3b308.PNG" width="0px" />
+</div>
 
 
 ### Autor
