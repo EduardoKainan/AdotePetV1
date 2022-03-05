@@ -37,13 +37,14 @@ Novo Projeto para Estudo usando o framework Flutter.
 ## Imagens App
 ---
 
-<div align="center">
-<img src="https://user-images.githubusercontent.com/31977689/156897882-1ddfc97e-9684-44cd-baca-bc4b37fa1577.PNG" width="0px" />
+<div align="float:left">
+<img src="https://user-images.githubusercontent.com/31977689/156897882-1ddfc97e-9684-44cd-baca-bc4b37fa1577.PNG" width="300px" />
 </div>
 
-<div align="center">
-<img src="https://user-images.githubusercontent.com/31977689/156897879-a0ca0bb5-45f4-4834-982d-864b77c3b308.PNG" width="0px" />
+<div align="float:right">
+<img src="https://user-images.githubusercontent.com/31977689/156897879-a0ca0bb5-45f4-4834-982d-864b77c3b308.PNG" width="300px" />
 </div>
+
 
 
 ### Autor
